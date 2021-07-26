@@ -5,6 +5,6 @@ Hi, I'm meta! I like working on emulators and homebrew software for old (but sti
 ```
 
 ### What's on your agenda recently?
-- Becoming proficient in [Rust](https://github.com/rust/rustlang)
+- Becoming proficient with [Rust](https://github.com/rust/rustlang)
 - Maintaining various elements in the **[Slippi](https://slippi.gg)** [ecosystem](https://github.com/project-slippi)
 - Writing an ARMv5 emulator
